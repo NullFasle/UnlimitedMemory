@@ -2,7 +2,8 @@
 According to the Kevin Horsley's Book named Unlimited Memory, I created the memory card using excel
 
 
-# The excel workbook's name is Memory Card.xlsm
+# The Usage
+The excel workbook's name is Memory Card.xlsm
 It contains thirteen sheets , they are Origin, Jan , Feb, March , April, May, June, July, Aug, Sep, Oct, Nov and Dec
 
 You just need to full the Origin sheets' first column and the second column 
